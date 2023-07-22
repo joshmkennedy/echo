@@ -1,3 +1,3 @@
-module github.com/joshmkennedy/echo
+module github.com/joshmkennedy/nova
 
 go 1.20
